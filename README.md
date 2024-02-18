@@ -22,7 +22,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](#)
+![](./Design/desktop-preview.jpg)
+![](./Design/desktop-design.jpg)
+![](./Design/active-states.jpg)
+![](./Design/mobile-design.jpg)
 
 ### Links
 
@@ -38,5 +41,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [TODO](#)
-- Linkedin - [TODO](#)
+- Frontend Mentor - [Muhammad](https://www.frontendmentor.io/profile/mu-abbas)
+- Linkedin - [Muhammad Abbas](https://www.linkedin.com/in/mu-abbas/)
