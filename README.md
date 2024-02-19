@@ -25,12 +25,15 @@ Users should be able to:
 ![](./Design/desktop-preview.jpg)
 ![](./Design/desktop-design.jpg)
 ![](./Design/active-states.jpg)
-![](./Design/mobile-design.jpg)
+
+<p align="center">
+  <img src="./Design/mobile-design.jpg" />
+</p>
 
 ### Links
 
-- Solution URL: [TODO](#)
-- Live Site URL: [TODO](#)
+- Solution URL: [Fronend Mentor](#)
+- Live Site URL: [Netlify](https://mu-clipboard.netlify.app/)
 
 ### Built with
 
