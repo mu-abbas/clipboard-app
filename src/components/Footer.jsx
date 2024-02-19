@@ -6,7 +6,7 @@ import instagram from '../assets/images/icon-instagram.svg';
 export default function Footer() {
   return (
     <footer>
-      <div className="bg-grayishBlue/5 px-12 py-16 flex flex-col items-center gap-16 lg:gap-32 lg:px-32 md:flex-row">
+      <div className="bg-grayishBlue/5 px-12 py-16 mt-6 flex flex-col items-center gap-16 lg:gap-32 lg:px-32 md:flex-row">
         <img src={logo} alt="logo" className="max-w-16" />
         <ul className="flex flex-col items-center gap-3 md:flex-row md:flex-wrap">
           <li className="text-grayishBlue text-lg hover:text-darkGrayishBlue transition duration-300 hover:-translate-y-0.5 md:w-1/4 min-w-max">
@@ -25,7 +25,7 @@ export default function Footer() {
             <a href="#">Install Guide</a>
           </li>
         </ul>
-        <ul className="flex gap-12 ml-auto">
+        <ul className="flex gap-12 md:ml-auto">
           <li className="min-w-6">
             <img src={facebook} alt="facebook" className="cursor-pointer hover:scale-110 transition duration-300" />
           </li>

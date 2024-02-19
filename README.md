@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Fronend Mentor](#)
+- Solution URL: [Fronend Mentor](https://www.frontendmentor.io/solutions/clipboard-landing-page-solution-xk__IKDZ_V)
 - Live Site URL: [Netlify](https://mu-clipboard.netlify.app/)
 
 ### Built with
